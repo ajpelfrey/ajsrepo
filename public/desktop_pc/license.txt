@@ -1,0 +1,8 @@
+Model Information:
+* title:	16 Mysterious Contraption
+* source:	https://sketchfab.com/3d-models/16-mysterious-contraption-5d0ce1bd6d6a49179c3b886c2a5186a3
+* author:	Chaitanya Krishnan (https://sketchfab.com/chaitanyak)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
