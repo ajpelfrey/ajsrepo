@@ -1,8 +1,11 @@
 Model Information:
-* title:	16 Mysterious Contraption
-* source:	https://sketchfab.com/3d-models/16-mysterious-contraption-5d0ce1bd6d6a49179c3b886c2a5186a3
-* author:	Chaitanya Krishnan (https://sketchfab.com/chaitanyak)
+* title:	Cyberpunk Desk
+* source:	https://sketchfab.com/3d-models/cyberpunk-desk-8bc4ca48b2e244ff8b5ba714a2ec1963
+* author:	Cisco (https://sketchfab.com/Ciscow)
 
 Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk Desk" (https://sketchfab.com/3d-models/cyberpunk-desk-8bc4ca48b2e244ff8b5ba714a2ec1963) by Cisco (https://sketchfab.com/Ciscow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
