@@ -19,7 +19,7 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        'hero-pattern': 'linear-gradient(to right,#804dee,#11998e,#2f80ed,#56ccf2,#804dee,#11998e )',
+        'hero-pattern': 'linear-gradient(to right,#804dee,#11998e,#2f80ed,#434343,#000000 )',
       },
     },
   },
