@@ -181,39 +181,39 @@ const testimonials = [
 
 const projects = [
   {
-    name: "N dollar recognizer",
+    name: "Java Parser, Tokenizer",
     description:
-      "Used N-dollar algorithm to be able to properly identify over 40 strokes, a stroke being a drawn shape, number, or design from a mouse, or stylus or touch screen",
+"Simulated the process of how a Java compiler works.  It takes in code through a JUNIT test and determines the token type, parse & type error checks, lexes, and finally generates the java source code output",
     tags: [
       {
-        name: "Python",
+        name: "Java",
         color: "blue-text-gradient",
       },
      
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/ajpelfrey/JavaParser",
   },
   {
-    name: "Job IT",
+    name: "DJ Set Planner",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "simple list based app to add songs and artist name for DJs to stay on track and prepare their sets...WIP adding Spotify API soon",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "js",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/ajpelfrey/DJSetPlanner",
   },
   {
     name: "Trip Guide",
