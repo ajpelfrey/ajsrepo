@@ -3,6 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+ Other background properties */
 
 * {
   margin: 0;
