@@ -197,45 +197,25 @@ const projects = [
   {
     name: "DJ Set Planner",
     description:
-      "simple list based app to add songs and artist name for DJs to stay on track and prepare their sets...WIP adding Spotify API soon",
+      "Demonstrates basic front end skills with simple list based app to add songs and artist name for DJs to stay on track and prepare their sets.  The functionality is adding song, artist name, add song to list, edit and save",
     tags: [
       {
         name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "js",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "js",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
     source_code_link: "https://github.com/ajpelfrey/DJSetPlanner",
   },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
