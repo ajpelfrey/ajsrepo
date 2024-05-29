@@ -215,6 +215,27 @@ const projects = [
     image: jobit,
     source_code_link: "https://github.com/ajpelfrey/DJSetPlanner",
   },
+  {
+    name: "Sentiment Analyzer AI",
+    description:
+
+    "The sentiment analyzer is a tool that evaluates and categorizes the emotional tone of textual data. It uses natural language processing (NLP) techniques to identify and classify sentiments as positive, negative, or neutral.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "AI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "pytorch",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'sentiment.png',
+    source_code_link: "https://github.com/ajpelfrey/SentimentAnalysis"},
   
 ];
 

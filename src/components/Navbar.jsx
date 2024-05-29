@@ -43,9 +43,17 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            <span className='sm:block hidden'> Alexander | Software Developer </span>
-          </p>
+          <p
+      className='text-[18px] font-bold cursor-pointer flex'
+      style={{
+        background: 'linear-gradient(to right, #b0b0b0, #e0e0e0, #b0b0b0)',
+        WebkitBackgroundClip: 'text',
+        WebkitTextFillColor: 'bg-transparent',
+        textShadow: '1px 1px 2px #000000',
+      }}
+    >
+      <span className='sm:block hidden'> Alexander | Portfolio </span>
+    </p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
